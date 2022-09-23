@@ -1,0 +1,11 @@
+.pokemon-list-container {
+    max-width: 55rem;
+}
+
+.pokemon-list-container ul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 3rem;
+    list-style: none;
+}
